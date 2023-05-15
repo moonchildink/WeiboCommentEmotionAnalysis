@@ -1,0 +1,4 @@
+# 忽视embedding文件夹
+/embeddings/            
+/__pycache__/
+*.keras
