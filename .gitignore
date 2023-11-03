@@ -1,4 +1,7 @@
 # 忽视embedding文件夹
 /embeddings/            
 /__pycache__/
+/.ipynb_checkpoints/
+/output/
+*.jpg
 *.keras
